@@ -534,7 +534,7 @@ const contatos = {
         }
         ,
         "profile-image": "img/contact230.png",
-        "number": "1194457796",
+        "number": "11944577962",
         "background": "#c00bfc",
         "contacts":
           [
